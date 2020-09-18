@@ -1,7 +1,7 @@
 {
   "target": {
     "type": "Command",
-    "name": "foo"
+    "name": "ein"
   },
   "dependencies": {}
 }
