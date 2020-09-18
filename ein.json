@@ -1,0 +1,6 @@
+{
+  "target": { "type": "Library" },
+  "dependencies": {
+    "github.com/ein-lang/sample-dependency-package": { "version": "master" }
+  }
+}
