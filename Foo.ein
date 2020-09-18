@@ -1,6 +1,0 @@
-export { foo }
-
-import "github.com/ein-lang/sample-dependency-package/Bar"
-
-foo : Number -> Number
-foo = Bar.bar

@@ -1,0 +1,2 @@
+main : Number -> Number
+main x = x + 42

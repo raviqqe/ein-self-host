@@ -1,6 +1,7 @@
 {
-  "target": { "type": "Library" },
-  "dependencies": {
-    "github.com/ein-lang/sample-dependency-package": { "version": "master" }
-  }
+  "target": {
+    "type": "Command",
+    "name": "foo"
+  },
+  "dependencies": {}
 }
